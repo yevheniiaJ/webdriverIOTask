@@ -50,7 +50,7 @@ describe('task5', () => {
         await expect(text).toContain('act')
     })
 
-    it.only('Task #5', async () => {
+    it('Task #5', async () => {
         await browser.url('https://github.com/')
         await $(`//a[@class='HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block']`).click()
         await $(`//h1[@class='h2-mktg']`).isDisplayed()
