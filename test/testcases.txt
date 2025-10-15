@@ -1,0 +1,46 @@
+Title #1: Verify logo
+
+Go to Github
+Click the 'Pricing" tab
+Click the logo
+
+Expected result: 
+A user should be navigated to the main page 
+
+Title #2: Verify navigation to the "Pick your trial plan" page
+
+Go to Github
+Click the 'Pricing" tab
+Click the "Start free for 30 days" button 
+
+Expected result:
+The "Pick your trial plan" page should be opened. Two plans should be recommended: Enterprice Cloud and Enterprice Server
+
+Title #3: Try Github Copilot
+
+Go to Github
+Click the "Try Github Copilot" button 
+Click the "Try now" button
+
+Expected result: A user should be navigated to the Sign in page
+
+Title #4: Verify navigation to the Sign up page
+
+Go to Github
+Click the "Sign up for Github" button 
+
+
+Expected result: A user should be navigated to the Sign in page
+
+
+Title #5 Verify subscribing functionality
+
+Go to Github
+Scroll the page down
+Click the "Subscribe" button 
+Enter work email
+Mark the checkbox
+Click the "Subscribe" button 
+
+Expected result:
+The " Thanks for subscribing!" message should be displayed
